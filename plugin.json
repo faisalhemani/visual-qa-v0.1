@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "visual-qa",
+  "description": "Consent-first AI visual QA for web features built with GitHub Copilot. Generates and runs Playwright tests only after explicit user approval.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Visual QA"
+  },
+  "license": "MIT",
+  "keywords": ["playwright", "testing", "visual-qa", "copilot", "browser-testing"]
+}
